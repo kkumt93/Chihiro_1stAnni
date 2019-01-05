@@ -1,10 +1,12 @@
-# 勇気ちひろ1周年記念製本企画
+## 勇気ちひろ1周年記念製本企画
 
-## MENU
+### MENU
 
-### お知らせ
-### [企画一覧](https://kkumt93.github.io/Chihiro_1stAnni/Event_List)
-### リンク
+お知らせ  
+
+[企画一覧](https://kkumt93.github.io/Chihiro_1stAnni/Event_List)  
+
+リンク
 
 ## 企画目標
 一周年ということなのでちーちゃんこと勇気ちひろさんが「1年間ライブやってよかったな」って見返して思えるような一年間アーカーブ本を作ることを目標
