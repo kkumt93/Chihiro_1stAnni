@@ -8,12 +8,12 @@
 
 [メッセージ集](https://kkumt93.github.io/Chihiro_1stAnni/Message)  
 
-[ちーちゃん年表]()
+[ちーちゃん年表](https://kkumt93.github.io/Chihiro_1stAnni/history)
 
-[ハーバリウム制作特集]()  
+[ハーバリウム制作特集](https://kkumt93.github.io/Chihiro_1stAnni/Herbarium)  
 
 [ちーちゃんを知ったきっかけ](https://kkumt93.github.io/Chihiro_1stAnni/Chi-Trigger)  
 
-[勇気ちひろちゃんを徹底解剖]()  
+[勇気ちひろちゃんを徹底解剖](https://kkumt93.github.io/Chihiro_1stAnni/analysis)   
 
-[ちーちゃん好きな配信ランキング]()  
+[ちーちゃん好きな配信ランキング](https://kkumt93.github.io/Chihiro_1stAnni/ranking)   
