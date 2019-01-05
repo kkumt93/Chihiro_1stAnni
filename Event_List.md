@@ -16,4 +16,4 @@
 
 [勇気ちひろちゃんを徹底解剖](https://kkumt93.github.io/Chihiro_1stAnni/analysis)   
 
-[ちーちゃん好きな配信ランキング](https://kkumt93.github.io/Chihiro_1stAnni/ranking)   
+[ちーちゃん何でもランキング](https://kkumt93.github.io/Chihiro_1stAnni/ranking)   
