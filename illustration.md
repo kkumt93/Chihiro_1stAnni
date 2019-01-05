@@ -18,3 +18,5 @@
 - 拡張子：pngのみ
 
 ### 応募方法
+
+[メッセージ＆イラスト応募](https://docs.google.com/forms/d/e/1FAIpQLSfnYGTChJXNJHUj01ojFJbrBy1_yBg0Xm352QdgKhe57pnNtw/viewform)
