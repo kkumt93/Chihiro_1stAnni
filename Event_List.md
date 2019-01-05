@@ -5,9 +5,9 @@
 
 [イラスト集](https://kkumt93.github.io/Chihiro_1stAnni/illustration)  
 
-[メッセージ集]()  
+[メッセージ集](https://kkumt93.github.io/Chihiro_1stAnni/Message)  
 
-[ちーちゃん年表]()  
+[ちーちゃん年表]()
 
 [ハーバリウム制作特集]()  
 
