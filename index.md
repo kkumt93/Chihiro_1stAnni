@@ -2,7 +2,7 @@
 
 ### MENU
 
-[お知らせ]()  
+[お知らせ](https://kkumt93.github.io/Chihiro_1stAnni/Notice)  
 
 [企画一覧](https://kkumt93.github.io/Chihiro_1stAnni/Event_List)  
 
