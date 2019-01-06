@@ -15,7 +15,7 @@
 メッセージ、ネタ記事、イラストをまとめた物をPDF等でBOOTHにて公開。
 後日、製本し勇気ちひろさんにいちから経由で贈ります。
 企画のイメージは[アキくんの非公式ファンブック](https://suzuyaakiseitan.booth.pm/items/1114927)
-と同じものとなっております。
+と同じものとなっております。各企画内容の詳細は[企画一覧](https://kkumt93.github.io/Chihiro_1stAnni/Event_List)から企画推進Discordは[リンク](https://kkumt93.github.io/Chihiro_1stAnni/Link)に記載してあります。
 
 ### 公開日
 2/8公開目標
