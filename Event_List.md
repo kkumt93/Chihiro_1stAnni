@@ -2,7 +2,7 @@
 
 ## 企画一覧
 
-[ビキニ特集](https://kkumt93.github.io/Chihiro_1stAnni/bikini)  
+[ビキニ特集](https://kkumt93.github.io/Chihiro_1stAnni/bikini_1_02)  
 
 [イラスト集](https://kkumt93.github.io/Chihiro_1stAnni/illustration)  
 
